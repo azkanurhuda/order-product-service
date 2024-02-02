@@ -3,6 +3,11 @@
 - Golang : https://github.com/golang/go
 - MySQL (Database) : https://github.com/mysql/mysql-server
 
+## Microservice
+- [order-product-service](https://github.com/azkanurhuda/order-product-service)
+- [product-service](https://github.com/azkanurhuda/order-product-service/tree/product-service)
+- [costumer-service](https://github.com/azkanurhuda/order-product-service/tree/costumer-service)
+
 ## Framework & Library
 
 - GoFiber (HTTP Framework) : https://github.com/gofiber/fiber
