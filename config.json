@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "product-service"
+  },
+  "web": {
+    "prefork": false,
+    "port": 3002
+  },
+  "log": {
+    "level": 6
+  },
+  "database": {
+    "username": "root",
+    "password": "root",
+    "host": "localhost",
+    "port": 3306,
+    "name": "marketplace-db",
+    "pool": {
+      "idle": 10,
+      "max": 100,
+      "lifetime": 300
+    }
+  }
+}
