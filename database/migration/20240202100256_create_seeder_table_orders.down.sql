@@ -1,0 +1,1 @@
+DELETE FROM orders WHERE id IN (501, 502, 503);
